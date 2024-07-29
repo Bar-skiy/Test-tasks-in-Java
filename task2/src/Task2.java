@@ -7,10 +7,12 @@ public class Task2 {
     public static void main(String[] args) {
 
         Map<String, Double> mapCircle = dataCircle(args[0]);
-        List<double[]> listDots = dataPoints(args[1]);
-        List<Integer> ansList = poseCalculate(mapCircle, listDots);
+        ArrayList<double[]> listDots =  dataPoints(args[1]);
+        ArrayList<Integer> ansList = poseCalculate(mapCircle, listDots);
 
-        ansList.forEach(System.out::println);
+        for (Integer ans : ansList) {
+            System.out.println(ans);
+        }
     }
 
     private static Map<String, Double> dataCircle(String file) {
@@ -28,33 +30,42 @@ public class Task2 {
             System.out.println("Некорректный ввод данных в файле circle.txt");
             throw new RuntimeException(e);
         }
+
         return mapCircle;
     }
 
-    private static List<double[]> dataPoints(String file) {
+    private static ArrayList<double[]> dataPoints(String file) {
 
-        List<double[]> listDots = new LinkedList<>();
+        ArrayList<double[]> listDots = new ArrayList<>();
 
         try (BufferedReader dotsFile = new BufferedReader(new FileReader(file))) {
 
             String line;
+            int counter = 0;
             while ((line = dotsFile.readLine()) != null) {
                 double[] dotCoordinates = new double[] {
                   Double.parseDouble(line.split(" ")[0]),
                   Double.parseDouble(line.split(" ")[1])
                 };
                 listDots.add(dotCoordinates);
+                counter++;
+                if (counter  == 100) {
+                    System.out.println("Сработало ограничение количества в 100 точек, лишние точки не учитываются");
+                    break;
+                }
             }
         } catch (NumberFormatException | IOException e) {
             System.out.println("Некорректный ввод данных в файле dorts.txt");
             throw new RuntimeException(e);
         }
+        if (listDots.isEmpty()) System.out.println("Введите координаты точек в файле dorts.txt");
+
         return listDots;
     }
 
-    private static List<Integer> poseCalculate(Map<String, Double> mapCircle, List<double[]> listDots) {
+    private static ArrayList<Integer> poseCalculate(Map<String, Double> mapCircle, ArrayList<double[]> listDots) {
 
-        List<Integer> ansList = new LinkedList<>();
+        ArrayList<Integer> ansList = new ArrayList<>();
 
         for (double[] dot : listDots) {
             double ans = Math.pow(dot[0] - mapCircle.get("xc"), 2) + Math.pow(dot[1] - mapCircle.get("yc"), 2) - mapCircle.get("rc2");
