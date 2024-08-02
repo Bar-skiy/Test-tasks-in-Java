@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc20b1c2-f194-4651-927d-baa34a25297e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../task1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../task1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/src/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task1/src/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task1/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task2/src/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gson-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3$TestsJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3$Value.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3$ValuesJson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/report.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../task4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4/src/Task4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../task4/src/Task4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task4/src/nums.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../task4/src/nums.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jycyuvPmpmoEDQS0fD8v3Xtq5m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Deserialisanion.executor": "Run",
+    "Application.Desirealisation.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ReadObject.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.TestReportGenerator.executor": "Run",
+    "Application.WriteObject.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IT/lernen_QAI_06.2024_start/Java/Java PL/PerLab_glt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IT\lernen QAI 06.2024_start\Java\Praktics\Task3_PL_Self\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\lernen_QAI_06.2024_start\Java\Praktics\Task3_PL_Self_cmd\src" />
+      <recent name="D:\IT\lernen_QAI_06.2024_start\Java\Praktics\Task3_PL_Self_cmd" />
+      <recent name="D:\IT\lernen QAI 06.2024_start\Java\Praktics\Task3_PL_Self" />
+      <recent name="D:\IT\lernen QAI 06.2024_start\Java\Praktics\Task3_PL_Self\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Task3_PL_Self_cmd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Task3_PL_Self_cmd" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc20b1c2-f194-4651-927d-baa34a25297e" name="Changes" comment="" />
+      <created>1722363019848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722363019848</updated>
+      <workItem from="1722363020910" duration="5523000" />
+      <workItem from="1722373818391" duration="1696000" />
+      <workItem from="1722410084607" duration="2623000" />
+      <workItem from="1722412971978" duration="6738000" />
+      <workItem from="1722422071655" duration="1684000" />
+      <workItem from="1722427232874" duration="1888000" />
+      <workItem from="1722429282692" duration="98000" />
+      <workItem from="1722438457923" duration="6163000" />
+      <workItem from="1722509290793" duration="134000" />
+      <workItem from="1722615303285" duration="39000" />
+      <workItem from="1722615358704" duration="83000" />
+      <workItem from="1722615552579" duration="325000" />
+      <workItem from="1722615960893" duration="625000" />
+      <workItem from="1722616778631" duration="9151000" />
+      <workItem from="1722628227261" duration="391000" />
+      <workItem from="1722629782327" duration="227000" />
+      <workItem from="1722630199068" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
